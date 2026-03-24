@@ -9,5 +9,6 @@ namespace ConsoleApp2
     class Class1
     {
         int a = 5;
+        int b = 20;
     }
 }
